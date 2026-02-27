@@ -20,7 +20,7 @@ I am always looking to grow professionally and contribute to meaningful projects
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
   </a>
 
-  <a href="https://github.com/seuusuario/csharp-desktop-app" target="_blank">
+  <a href="https://github.com/Koregh/CSharp-Test" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px" alt="C#"/>
   </a>
 
