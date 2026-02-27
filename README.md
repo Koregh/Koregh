@@ -12,7 +12,7 @@ I am always looking to grow professionally and contribute to meaningful projects
 # Main Technologies: 🚀
 
 <p align="left">
-  <a href="https://github.com/seuusuario/lua-backend-system" target="_blank">
+  <a href="https://github.com/Koregh/KoreghNet" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45px" alt="Lua"/>
   </a>
 
