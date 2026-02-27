@@ -12,19 +12,19 @@ I am always looking to grow professionally and contribute to meaningful projects
 # Main Technologies: 🚀
 
 <p align="left">
-  <a href="https://www.lua.org/" target="_blank">
+  <a href="https://github.com/seuusuario/lua-backend-system" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45px" alt="Lua"/>
   </a>
 
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://github.com/seuusuario/python-api-project" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
   </a>
 
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <a href="https://github.com/seuusuario/csharp-desktop-app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px" alt="C#"/>
   </a>
 
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://github.com/seuusuario/java-structure-project" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
   </a>
 </p>
