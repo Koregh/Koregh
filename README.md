@@ -11,6 +11,6 @@ I am always looking to grow professionally and contribute to meaningful projects
 
 <p align="left">
   <a href="https://luau-lang.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" width="40px" alt="Luau"/>
+    <img src="https://img.icons8.com/nolan/1200/lua-language--v1.jpg" width="40px" alt="Luau"/>
   </a>
 </p>
