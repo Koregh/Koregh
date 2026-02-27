@@ -8,3 +8,9 @@ I am constantly improving my knowledge in software engineering principles and be
 
 I value clean code, logical thinking, and problem-solving.  
 I am always looking to grow professionally and contribute to meaningful projects.
+
+<p align="left">
+  <a href="https://luau-lang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" width="40px" alt="Luau"/>
+  </a>
+</p>
