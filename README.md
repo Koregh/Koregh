@@ -1,4 +1,4 @@
-## About Me: 👋
+# About Me: 👋
 
 As a systems and back-end developer, I focus on building structured, efficient, and maintainable software solutions.  
 I have experience working with Lua and backend logic, developing organized systems with attention to performance and security.
