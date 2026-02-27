@@ -9,7 +9,7 @@ I am constantly improving my knowledge in software engineering principles and be
 I value clean code, logical thinking, and problem-solving.  
 I am always looking to grow professionally and contribute to meaningful projects.
 
-### 🚀 Main Technologies
+# Main Technologies: 🚀
 
 <p align="left">
   <a href="https://www.lua.org/" target="_blank">
