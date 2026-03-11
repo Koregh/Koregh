@@ -16,7 +16,7 @@ I am always looking to grow professionally and contribute to meaningful projects
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45px" alt="Lua"/>
   </a>
 
-  <a href="https://github.com/seuusuario/python-api-project" target="_blank">
+  <a href="https://github.com/Koregh/E-Commerce" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
   </a>
 
