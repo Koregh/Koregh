@@ -24,7 +24,7 @@ I am always looking to grow professionally and contribute to meaningful projects
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px" alt="C#"/>
   </a>
 
-  <a href="https://github.com/seuusuario/java-structure-project" target="_blank">
+  <a href="https://github.com/Koregh/Java-E-Commerce" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
   </a>
 </p>
