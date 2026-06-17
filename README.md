@@ -1,4 +1,4 @@
-<img width="1280" height="897" alt="image" src="https://github.com/user-attachments/assets/617ce929-8e99-402f-9b19-5e20a398d54a" /># About Me: 👋
+# About Me: 👋
 
 As a systems and back-end developer, I focus on building structured, efficient and easily maintained software solutions.  
 I have experience working with Lua and backend logic, developing organized systems with attention to performance and security.
@@ -35,3 +35,8 @@ I am always looking to grow professionally and contribute to meaningful projects
 </p>
 
 
+<p align="left">
+ <a href="https://www.youtube.com/watch?v=4T1pkYR_bRM&t=13s" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width="45px" alt="Roblox"/>
+  </a>
+</p>
