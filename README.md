@@ -38,4 +38,4 @@ I am always looking to grow professionally and contribute to meaningful projects
  <a href="https://www.youtube.com/watch?v=4T1pkYR_bRM&t=13s" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width="45px" alt="Roblox"/>
   </a>
-  </p>
+</p>
