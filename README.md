@@ -27,10 +27,6 @@ I am always looking to grow professionally and contribute to meaningful projects
   <a href="https://github.com/Koregh/Java-E-Commerce" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
   </a>
-
-  <a href="https://www.roblox.com/pt/games/90489235925116/Krush-PVP" target="_blank">
-    <img src="https://img.icons8.com/ios_filled/512/228BE6/roblox.png" width="45px" alt="Roblox"/>
-  </a>
   
 </p>
 
